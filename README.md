@@ -1,2 +1,3 @@
-Music Dashboard with Streamlit
-Link to Dashboard: https://suganya2001-music-dashboard.streamlit.app/
+# Music_Dashboard
+
+ <br> Link to Dashboard: [Link]([https://ewatrocha-music-dashboard-dashboard-app-qalq5q.streamlit.app/](https://suganya2001-music-dashboard.streamlit.app/))
